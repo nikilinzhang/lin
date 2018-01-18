@@ -1,3 +1,6 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Purpose and Scope](chapter1.md)
+* Stakeholder identification
+
