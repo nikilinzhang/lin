@@ -20,6 +20,10 @@
       * [熊猫教育](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu.md)
         * [入口](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/ru-kou.md)
         * [教育首页](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/jiao-yu-shou-ye.md)
+        * [我的](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de.md)
+        * 传送门
+        * 校园大使
+        * 学霸帮
       * 避险救助
     * Topup
     * Payment
