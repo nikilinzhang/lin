@@ -15,7 +15,7 @@
       * 排名
       * 探探
     * [生活](product-overview-and-use-cases/functional-requirements/sheng-huo.md)
-      * 熊猫饿了
+      * [熊猫饿了](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-e-le.md)
       * 熊猫有家
       * [熊猫教育](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu.md)
         * [入口](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/ru-kou.md)
