@@ -22,8 +22,8 @@
         * [教育首页](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/jiao-yu-shou-ye.md)
         * [我的](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de.md)
         * 传送门
-        * 校园大使
-        * 学霸帮
+        * [校园大使](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/xiao-yuan-da-shi.md)
+        * [学霸帮](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/xue-ba-bang.md)
       * 避险救助
     * Topup
     * Payment
