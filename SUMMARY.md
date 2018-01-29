@@ -24,7 +24,7 @@
           * [大师兄教务处](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de/da-shi-xiong-wo-de.md)
           * [大使教务处](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de/da-shi-wo-de.md)
           * [用户教务处](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de/yong-hu-wo-de.md)
-        * 传送门
+        * [传送门](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/chuan-song-men.md)
         * [校园大使](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/xiao-yuan-da-shi.md)
         * [学霸帮](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/xue-ba-bang.md)
       * 避险救助
