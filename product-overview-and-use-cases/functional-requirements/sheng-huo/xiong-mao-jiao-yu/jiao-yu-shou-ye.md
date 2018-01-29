@@ -70,9 +70,7 @@
 5.在“活动”中点击“列表”显示活动列表。
 ```
 
-* 教务处
-
-
+* [教务处](/product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de.md)
 
 后台手动匹配用户和学霸
 
