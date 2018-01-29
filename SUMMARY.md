@@ -21,9 +21,9 @@
         * [入口](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/ru-kou.md)
         * [教育首页](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/jiao-yu-shou-ye.md)
         * [教务处](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de.md)
-          * [大师兄我的](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de/da-shi-xiong-wo-de.md)
-          * [大使我的](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de/da-shi-wo-de.md)
-          * [用户我的](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de/yong-hu-wo-de.md)
+          * [大师兄教务处](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de/da-shi-xiong-wo-de.md)
+          * [大使教务处](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de/da-shi-wo-de.md)
+          * [用户教务处](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de/yong-hu-wo-de.md)
         * 传送门
         * [校园大使](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/xiao-yuan-da-shi.md)
         * [学霸帮](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/xue-ba-bang.md)

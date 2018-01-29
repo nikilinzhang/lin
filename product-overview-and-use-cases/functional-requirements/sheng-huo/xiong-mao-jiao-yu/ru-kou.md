@@ -37,7 +37,5 @@
 
 * 已添收集信息表单
 
-点击教务处进入我的页面
-
-
+点击教务处进入[教务处页面](/product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de.md)
 
