@@ -102,6 +102,8 @@
 
 * [教务处](/product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de.md)
 
+首页右侧有“[传送门](/product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/chuan-song-men.md)”、“[我的大学](/product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de-da-xue.md)”、“开启位置”
+
 后台手动匹配用户和学霸
 
 后台手动匹配用户和大使
