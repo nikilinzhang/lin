@@ -32,7 +32,7 @@
         * [课程](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/ke-cheng.md)
         * 活动
       * 避险救助
-    * Topup
+    * [Topup](product-overview-and-use-cases/functional-requirements/topup.md)
     * [Payment](product-overview-and-use-cases/functional-requirements/payment.md)
       * [余额](product-overview-and-use-cases/functional-requirements/payment/yu-e.md)
       * [红包](product-overview-and-use-cases/functional-requirements/payment/hong-bao.md)
