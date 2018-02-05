@@ -29,9 +29,14 @@
         * [学霸帮](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/xue-ba-bang.md)
         * [我的大学](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de-da-xue.md)
         * [开启位置](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/kai-qi-wei-zhi.md)
+        * [课程](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/ke-cheng.md)
+        * 活动
       * 避险救助
     * Topup
-    * Payment
+    * [Payment](product-overview-and-use-cases/functional-requirements/payment.md)
+      * [余额](product-overview-and-use-cases/functional-requirements/payment/yu-e.md)
+      * [红包](product-overview-and-use-cases/functional-requirements/payment/hong-bao.md)
+      * [专红](product-overview-and-use-cases/functional-requirements/payment/zhuan-hong.md)
     * Events
     * 抽奖
     * 信息收集
