@@ -16,7 +16,7 @@
       * 探探
     * [生活](product-overview-and-use-cases/functional-requirements/sheng-huo.md)
       * [熊猫饿了](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-e-le.md)
-      * 熊猫有家
+      * [熊猫有家](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-you-jia.md)
       * [熊猫教育](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu.md)
         * [入口](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/ru-kou.md)
         * [教育首页](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/jiao-yu-shou-ye.md)
@@ -31,7 +31,7 @@
         * [开启位置](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/kai-qi-wei-zhi.md)
         * [课程](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/ke-cheng.md)
         * 活动
-      * 避险救助
+      * [避险救助](product-overview-and-use-cases/functional-requirements/sheng-huo/bi-xian-jiu-zhu.md)
     * [Topup](product-overview-and-use-cases/functional-requirements/topup.md)
     * [Payment](product-overview-and-use-cases/functional-requirements/payment.md)
       * [余额](product-overview-and-use-cases/functional-requirements/payment/yu-e.md)
