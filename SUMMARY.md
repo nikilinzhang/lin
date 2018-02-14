@@ -38,8 +38,8 @@
       * [余额](product-overview-and-use-cases/functional-requirements/payment/yu-e.md)
       * [红包](product-overview-and-use-cases/functional-requirements/payment/hong-bao.md)
       * [专红](product-overview-and-use-cases/functional-requirements/payment/zhuan-hong.md)
-    * Events
-    * 抽奖
+    * [Events](product-overview-and-use-cases/functional-requirements/events.md)
+    * [抽奖](product-overview-and-use-cases/functional-requirements/chou-jiang.md)
   * [Usability requirements](product-overview-and-use-cases/usability-requirements.md)
   * [Technical requirements](product-overview-and-use-cases/technical-requirements.md)
   * [Environmental requirements](product-overview-and-use-cases/environmental-requirements.md)
