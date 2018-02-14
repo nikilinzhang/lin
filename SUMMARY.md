@@ -39,12 +39,13 @@
         * [课程](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/ke-cheng.md)
         * [活动](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/huo-dong.md)
       * [避险救助](product-overview-and-use-cases/functional-requirements/sheng-huo/bi-xian-jiu-zhu.md)
+      * 使用地图模式
+      * 卡劵
     * [Topup](product-overview-and-use-cases/functional-requirements/topup.md)
     * [Payment](product-overview-and-use-cases/functional-requirements/payment.md)
       * [余额](product-overview-and-use-cases/functional-requirements/payment/yu-e.md)
       * [红包](product-overview-and-use-cases/functional-requirements/payment/hong-bao.md)
       * [专红](product-overview-and-use-cases/functional-requirements/payment/zhuan-hong.md)
-    * [Events](product-overview-and-use-cases/functional-requirements/events.md)
     * [抽奖](product-overview-and-use-cases/functional-requirements/chou-jiang.md)
   * [Usability requirements](product-overview-and-use-cases/usability-requirements.md)
   * [Technical requirements](product-overview-and-use-cases/technical-requirements.md)
