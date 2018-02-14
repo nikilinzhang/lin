@@ -18,13 +18,14 @@ Slider
 
 **第四行**
 
-熊猫饿了、熊猫有家、熊猫课程
+[熊猫饿了](/product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-e-le.md)、[熊猫有家](/product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-you-jia.md)、[熊猫课程](/product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu.md)
 
 **第五行**
 
 三重大礼以及期末回家卡banner
 
 * 点击期末回家卡banner跳管家卡。
+* 点击三重大礼banner进入三重大礼界面，点击填表后进入三重大礼表单。递交过表单之后可领取三重大礼。
 
 **第六行**
 
