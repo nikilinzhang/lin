@@ -7,6 +7,7 @@
 * [Product overview and use cases](product-overview-and-use-cases.md)
 * [Requirements](requirements.md)
   * [Functional requirements](product-overview-and-use-cases/functional-requirements.md)
+    * [登陆以及注册流程](product-overview-and-use-cases/functional-requirements/deng-lu.md)
     * [Profile](product-overview-and-use-cases/functional-requirements/profile.md)
     * [管家](product-overview-and-use-cases/functional-requirements/guan-jia.md)
     * [发现](product-overview-and-use-cases/functional-requirements/fa-xian.md)
@@ -39,7 +40,6 @@
       * [专红](product-overview-and-use-cases/functional-requirements/payment/zhuan-hong.md)
     * Events
     * 抽奖
-    * 信息收集
   * [Usability requirements](product-overview-and-use-cases/usability-requirements.md)
   * [Technical requirements](product-overview-and-use-cases/technical-requirements.md)
   * [Environmental requirements](product-overview-and-use-cases/environmental-requirements.md)
