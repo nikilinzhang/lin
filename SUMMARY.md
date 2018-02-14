@@ -19,6 +19,7 @@
         * [动态](product-overview-and-use-cases/functional-requirements/fa-xian/pai-ming/dong-tai.md)
         * [热门](product-overview-and-use-cases/functional-requirements/fa-xian/pai-ming/re-men.md)
         * [宝宝](product-overview-and-use-cases/functional-requirements/fa-xian/pai-ming/bao-bao.md)
+        * 地图中学校排名
       * [探探](product-overview-and-use-cases/functional-requirements/fa-xian/tan-tan.md)
     * [生活](product-overview-and-use-cases/functional-requirements/sheng-huo.md)
       * [熊猫饿了](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-e-le.md)
@@ -36,7 +37,7 @@
         * [我的大学](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/wo-de-da-xue.md)
         * [开启位置](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/kai-qi-wei-zhi.md)
         * [课程](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/ke-cheng.md)
-        * 活动
+        * [活动](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/huo-dong.md)
       * [避险救助](product-overview-and-use-cases/functional-requirements/sheng-huo/bi-xian-jiu-zhu.md)
     * [Topup](product-overview-and-use-cases/functional-requirements/topup.md)
     * [Payment](product-overview-and-use-cases/functional-requirements/payment.md)
