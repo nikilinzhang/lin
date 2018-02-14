@@ -11,7 +11,7 @@
     * [Profile](product-overview-and-use-cases/functional-requirements/profile.md)
     * [管家](product-overview-and-use-cases/functional-requirements/guan-jia.md)
     * [发现](product-overview-and-use-cases/functional-requirements/fa-xian.md)
-      * 个人中心
+      * [个人中心](product-overview-and-use-cases/functional-requirements/fa-xian/ge-ren-zhong-xin.md)
       * 传送门
       * 排名
       * 探探
