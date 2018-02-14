@@ -39,7 +39,6 @@
         * [课程](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/ke-cheng.md)
         * [活动](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/huo-dong.md)
       * [避险救助](product-overview-and-use-cases/functional-requirements/sheng-huo/bi-xian-jiu-zhu.md)
-      * 使用地图模式
       * [卡劵](product-overview-and-use-cases/functional-requirements/sheng-huo/qia-juan.md)
       * [Slider](product-overview-and-use-cases/functional-requirements/sheng-huo/slider.md)
     * [Topup](product-overview-and-use-cases/functional-requirements/topup.md)
