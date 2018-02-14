@@ -6,15 +6,21 @@
 
 ##### 第一行
 
-Slider
+[Slider](/product-overview-and-use-cases/functional-requirements/sheng-huo/slider.md)
 
 ##### 第二行
 
-扫码（付费）、余额、充值
+扫码（付费）、[余额](/product-overview-and-use-cases/functional-requirements/payment/yu-e.md)、[充值](/充值)
 
 **第三行**
 
 使用地图模式
+
+* 点击“使用地图模式”进入地图页面。
+* 地图中列出所有“熊猫饿了”的商户。
+* 地图上端有定位以及按名称搜索功能。
+* 地图底部显示所在地的餐厅小标签。
+* 点击餐厅小标签进入餐厅详情页面。
 
 **第四行**
 
@@ -41,7 +47,7 @@ Slider
 
 **第八行**
 
-卡券（首页显示两个活动，点击“更多”列出所有active的活动）
+[卡券](/product-overview-and-use-cases/functional-requirements/sheng-huo/qia-juan.md)（首页显示两个活动，点击“更多”列出所有active的活动）
 
 **第九行**
 
