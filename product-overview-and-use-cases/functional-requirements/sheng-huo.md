@@ -24,16 +24,18 @@ Slider
 
 三重大礼以及期末回家卡banner
 
+* 点击期末回家卡banner跳管家卡。
+
 **第六行**
 
-避险救助八项服务
+[避险救助八项服务](/product-overview-and-use-cases/functional-requirements/sheng-huo/bi-xian-jiu-zhu.md)
 
 **第七行**
 
 大师兄大师姐招聘表单、校园大使招聘表单以及租房EOI表单banner
 
-* 点击大师兄大师姐招聘banner进入对应的表单
-* 点击校园大使招聘banner进入对应的表单
+* 点击大师兄大师姐招聘banner进入对应的表单。
+* 点击校园大使招聘banner进入对应的表单。
 * 点击租房EOI banner弹出抽奖并领取红包的popup，点击“抽奖并领取”之后进入租房抽奖界面告知结果。
 
 **第八行**
