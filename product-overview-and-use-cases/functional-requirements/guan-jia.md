@@ -2,19 +2,19 @@
 
 **管家卡状态**
 
-  预售倒计时（点击开通按钮弹eoi表单，表单仅可以填写一次）
+    预售倒计时（点击开通按钮弹eoi表单，表单仅可以填写一次）
 
-  开通倒计时
+    开通倒计时
 
-  点击查看
+    点击查看
 
-  留学宝重磅推出，尽请期待
+    留学宝重磅推出，尽请期待
 
 **管家卡服务状态**
 
-  [避险救助八项服务](/product-overview-and-use-cases/functional-requirements/sheng-huo/bi-xian-jiu-zhu.md)
+    [避险救助八项服务](/product-overview-and-use-cases/functional-requirements/sheng-huo/bi-xian-jiu-zhu.md)
 
-  服务未开通
+    服务未开通
 
-  点击弹窗（我们的服务即将上线如您需要提前了解更多请点击确认按钮，我们的工作人员随后将与您取得联系）
+    点击弹窗（我们的服务即将上线如您需要提前了解更多请点击确认按钮，我们的工作人员随后将与您取得联系）
 
