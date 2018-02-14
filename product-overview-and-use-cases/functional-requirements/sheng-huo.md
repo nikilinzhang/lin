@@ -4,6 +4,8 @@
 
 选择十国以及城市
 
+* 点击城市选择国家以及城市。
+
 ##### 第一行
 
 [Slider](/product-overview-and-use-cases/functional-requirements/sheng-huo/slider.md)
@@ -11,6 +13,9 @@
 ##### 第二行
 
 扫码（付费）、[余额](/product-overview-and-use-cases/functional-requirements/payment/yu-e.md)、[充值](/充值)
+
+* 点击扫码扫商家二维码
+* 扫码之后出商家支付页面
 
 **第三行**
 
