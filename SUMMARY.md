@@ -12,9 +12,11 @@
     * [管家](product-overview-and-use-cases/functional-requirements/guan-jia.md)
     * [发现](product-overview-and-use-cases/functional-requirements/fa-xian.md)
       * [个人中心](product-overview-and-use-cases/functional-requirements/fa-xian/ge-ren-zhong-xin.md)
-      * 传送门
-      * 排名
-      * 探探
+        * [自己的个人中心](product-overview-and-use-cases/functional-requirements/fa-xian/ge-ren-zhong-xin/zi-ji-de-ge-ren-zhong-xin.md)
+        * [宝主的个人](product-overview-and-use-cases/functional-requirements/fa-xian/ge-ren-zhong-xin/bao-zhu-de-ge-ren-zhong-xin.md)
+      * [传送门](product-overview-and-use-cases/functional-requirements/fa-xian/chuan-song-men.md)
+      * [排名](product-overview-and-use-cases/functional-requirements/fa-xian/pai-ming.md)
+      * [探探](product-overview-and-use-cases/functional-requirements/fa-xian/tan-tan.md)
     * [生活](product-overview-and-use-cases/functional-requirements/sheng-huo.md)
       * [熊猫饿了](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-e-le.md)
       * [熊猫有家](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-you-jia.md)
