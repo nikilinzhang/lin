@@ -28,8 +28,8 @@
         * [搜索](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-you-jia/sou-suo.md)
         * [地图/租房列表](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-you-jia/di-56fe-zu-fang-lie-biao.md)
         * [房源内页](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-you-jia/fang-yuan-nei-ye.md)
-        * 附近
-        * 心愿单
+        * [附近](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-you-jia/fu-jin.md)
+        * [心愿单](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-you-jia/xin-yuan-dan.md)
         * 我的
       * [熊猫教育](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu.md)
         * [入口](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/ru-kou.md)
