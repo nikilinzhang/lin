@@ -24,6 +24,12 @@
     * [生活](product-overview-and-use-cases/functional-requirements/sheng-huo.md)
       * [熊猫饿了](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-e-le.md)
       * [熊猫有家](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-you-jia.md)
+        * 我的租房意愿
+        * 搜索
+        * 地图/租房列表
+        * 附近
+        * 心愿单
+        * 我的
       * [熊猫教育](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu.md)
         * [入口](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/ru-kou.md)
         * [教育首页](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-jiao-yu/jiao-yu-shou-ye.md)
