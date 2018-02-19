@@ -24,7 +24,7 @@
     * [生活](product-overview-and-use-cases/functional-requirements/sheng-huo.md)
       * [熊猫饿了](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-e-le.md)
       * [熊猫有家](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-you-jia.md)
-        * 我的租房意愿
+        * [我的租房意愿](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-you-jia/wo-de-zu-fang-yi-yuan.md)
         * 搜索
         * 地图/租房列表
         * 附近
