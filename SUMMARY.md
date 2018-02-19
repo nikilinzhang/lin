@@ -27,6 +27,7 @@
         * [我的租房意愿](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-you-jia/wo-de-zu-fang-yi-yuan.md)
         * [搜索](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-you-jia/sou-suo.md)
         * [地图/租房列表](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-you-jia/di-56fe-zu-fang-lie-biao.md)
+        * [房源内页](product-overview-and-use-cases/functional-requirements/sheng-huo/xiong-mao-you-jia/fang-yuan-nei-ye.md)
         * 附近
         * 心愿单
         * 我的
